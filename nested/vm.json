@@ -115,7 +115,7 @@
             ],
             "properties": {
                 "hardwareProfile": {
-                    "vmSize": "Standard_A0"
+                    "vmSize": "Standard_D1"
                 },
                 "osProfile": {
                     "computerName": "[parameters('vmName')]",
